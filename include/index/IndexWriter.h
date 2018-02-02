@@ -10,7 +10,7 @@
 #include <directory/Directory.h>
 #include <document/Document.h>
 #include <document/DocumentWriter.h>
-#include <document/Term.h>
+#include <index/Term.h>
 
 namespace lucene {
 

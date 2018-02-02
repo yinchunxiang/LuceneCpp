@@ -7,7 +7,7 @@
 
 #include <directory/Directory.h>
 #include <index/IndexWriterConfig.h>
-#include "Term.h"
+#include "index/Term.h"
 
 namespace lucene {
 
